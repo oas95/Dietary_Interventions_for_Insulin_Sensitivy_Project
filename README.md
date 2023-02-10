@@ -2,20 +2,20 @@
 ###Project Background
 ________________________________________
 
-###Project Purpose
+### Project Purpose
 ________________________________________
 
-###Terminology Breakdown
+### Terminology Breakdown
 ________________________________________
 
-#Project Findings
+### Project Findings
 ________________________________________
 
-###Packages Used
+### Packages Used
 ________________________________________
 
-###Key Visuals 
+### Key Visuals 
 ________________________________________
 
-###Sources
+### Sources
 ________________________________________
