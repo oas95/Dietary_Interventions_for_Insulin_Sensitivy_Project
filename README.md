@@ -2,6 +2,9 @@
 ### Project Background
 ________________________________________
 
+Original Project Presentation is included in repo
+You can also watch it here: (Youtube Link)
+
 ### Project Purpose
 ________________________________________
 
@@ -13,6 +16,10 @@ ________________________________________
 
 ### Packages Used
 ________________________________________
+
+- pandas 
+- tabula
+- pdfminer.six
 
 ### Key Visuals 
 ________________________________________
