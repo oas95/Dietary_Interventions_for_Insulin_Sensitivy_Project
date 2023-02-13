@@ -1,0 +1,39 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,2P
+0,,Baseline Week 2,Week 6,,Time,Group time
+1,BMI (kg/m2),,,,,
+2,KLC diet group,34.9 1.63 33.5 1.6,32.5 1.6,,,
+3,NLC diet group,34.6 1.5 33.2 1.4,31.9 1.3,,0.001,NS
+4,Fat-free mass (kg),,,,,
+5,KLC diet group,54.9 3.7 53.9 3.5,53.2 3.9,,,
+6,NLC diet group,56.5 3.5 54.6 3.2,54.3 3.4,,NS,NS
+7,Resting energy expenditure (kcal/kg),,,,,
+8,KLC diet group,5.80 0.30 6.41 0.46,7.24 0.43,,,
+9,NLC diet group,6.64 0.46 6.79 0.55,7.51 0.33,,0.004,NS
+10,Respiratory quotient,,,,,
+11,KLC diet group,0.75 0.02 0.67 0.01,0.72 0.01,,,
+12,NLC diet group,0.75 0.02 0.66 0.01,0.73 0.01,,0.001,NS
+13,Blood -hydroxybutyrate (mmol/L),,,,,
+14,KLC diet group,0.089 0.20 0.722 0.1774,0.333 0.078,,,
+15,NLC diet group,0.100 0.021 0.200 0.030,0.200 0.026,,0.003,0.041
+16,HOMA,,,,,
+17,KLC diet group,6.24 0.65 4.04 0.53,4.38 0.39,,,
+18,NLC diet group,6.50 0.91 4.70 0.60,4.32 0.37,,0.001,NS
+19,AA:EPA,,,,,
+20,KLC diet group,21.4 2.3 29.3 4.1,39.2 7.85,,,
+21,NLC diet group,23.8 2.9 25.1 4.2,20.9 2.9,,0.007,0.005
+22,-Glutamyltransferase (IU/L),,,,,
+23,KLC diet group,22.3 5.5 17.2 4.4,17.7 4.2,,,
+24,NLC diet group,20.7 2.4 20.0 2.7,19.2 2.7,,0.029,NS
+25,C-reactive protein (mg/L),,,,,
+26,KLC diet group,7.50 2.07 6.93 2.06,6.39 1.65,,,
+27,NLC diet group,4.12 0.78 4.48 1.27,4.60 1.40,,NS,NS
+28,Plasma uric acid (mmol/L),,,,,
+29,KLC diet group,0.36 0.04 0.42 0.05,0.32 0.04,,,
+30,NLC diet group,0.37 0.04 0.41 0.04,0.34 0.03,,0.001,NS
+31,Urinary calcium (mmol/d),,,,,
+32,KLC diet group,3.22 0.52 4.72 0.52,4.13 0.51,,,
+33,NLC diet group,4.72 1.07 2.34 0.36,3.96 0.43,,NS,NS
+34,Creatinine clearance (mL · s 1 · m 2),,,,,
+35,KLC diet group,1.21 0.10 1.47 0.11,1.18 0.16,,,
+36,NLC diet group,1.34 0.11 1.31 0.12,1.20 0.12,,0.044,NS
+37,"1 n 9 and 10 for the KLC and NLC groups, respectively. HOMA, homeostasis model assessment [(fasting glucose/L)",,,,( U fasting insulin/mL)/22.5];,

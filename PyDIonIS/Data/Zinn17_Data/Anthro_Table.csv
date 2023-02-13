@@ -1,0 +1,59 @@
+,Unnamed: 0,LCHF (n = 14) Control (n = 12),Unnamed: 1,Unnamed: 2,Unnamed: 3
+0,,,Between-group,Between-group,
+1,,Baseline Week 12 Baseline Week 12,"difference,","difference,","Effect size, qualitative"
+2,,mean ± SD mean ± SD mean ± SD mean ± SD,mean (90% CI),Cohen’s d (90% CI),clinical inference
+3,Body composition,,,,
+4,Weight (kg),96.2±13.3 90.7±11.8* 94.8±11.8 92.8±12.2*,"−3.6 (−5.8, −1.4)","−0.39 (−0.64, −0.14)","Small, likely beneficial"
+5,Waist (cm),98.0±11.9 93.2±10.3* 100.8±10.5 97.5±10.2*,"−1.5 (−4.1, 1.1)","−0.21 (−0.45, 0.04)","Small, possibly beneficial"
+6,Lipid profile,,,,
+7,LDLc (mmol/L),2.98±0.70 3.24±1.04 3.12±0.76 2.93±0.65,"0.5 (0.0, 0.9)","0.53 (−0.08, 1.13)","Small, likely harmful"
+8,HDLc (mmol/L),1.09±0.26 1.31±0.40* 1.16±0.25 1.13±0.30,"0.2 (0.1, 0.4)","0.81 (0.18, 1.43)","Moderate, likely beneficial"
+9,Triglycerides (mmol/L),1.38±0.55 1.01±0.38* 1.59±0.69 1.35±0.62,"−0.1 (−0.4, 0.2)","−0.37 (−0.86, 0.12)","Small, possibly beneficial"
+10,Triglyceride: HDLc ratio,1.38±0.79 0.95±0.64* 1.49±0.82 1.33±0.85,"−0.4 (−0.8, 0.1)","−0.71 (−1.36, −0.07)","Moderate, likely beneficial"
+11,Glycaemic control,,,,
+12,Glucose (mmol/L),5.19±0.58 4.81±0.28* 4.97±0.42 4.86±0.36,"−0.3 (−0.6, 0.1)","−0.49 (−1.13, 0.16)","Small, likely beneficial"
+13,Insulin (pmol/L),83.3±82.3 48.9±20.0 64.8±36.8 69.6±31.0,"−39.2 (−78.0, −0.5)","−0.51 (−1.05, 0.03)","Small, likely beneficial"
+14,HOMA-IR,3.07±3.64 1.50±0.72 2.06±1.12 2.18±1.04,"−1.8 (−3.7, 0.00)","−0.57 (−1.22, 0.08)","Small, likely beneficial"
+15,HbA1c (mmol/mol),35.7±2.1 35.6±2.1 35.2±2.4 35.5±3.4,"−2.2 (−4.2, −0.2)","−0.94 (−1.77, −0.10)","Moderate, likely beneficial"
+16,"Note: LCHF, low carbohydrate","high fat; LDLc, low-density lipoprotein cholesterol;","HDLc, high-density",lipoprotein cholesterol;,"HOMA-IR, homeostasis model"
+17,assessment of insulin resistance.,,,,
+18,*Significant within-group difference from baseline to week 12.,,,,
+19,several aspects of diet and lifestyle have the ability to impact these,,"themselves, there is still uncertainty regarding the true meaning",,
+20,"lipid markers, these outcomes are consistent with the supportive",,of the risk associated with an elevated LDLc. Further research on,,
+21,physiological evidence that dietary fat raises HDLc (Mensink and,,"LDLc is warranted in the context of the LCHF dietary approach,",,
+22,Katan 1992; Mensink et,al. 2003) and that the consumption of,particularly in longer duration studies with larger sample sizes.,,
+23,dietary carbohydrates raises blood triglyceride levels (Parks and,,"The small, likely beneficial between-group effects seen for insu-",,
+24,Hellerstein 2000). These outcomes are important because triglyc-,,lin and for HOMA-IR need to be interpreted with caution. What,,
+25,eride:HDLc ratio is becoming,increasingly well-recognised and,appears a substantial,reduction in these,markers in the LCHF
+26,utilised in a clinical setting as a useful predictor of insulin resis-,,"group may be accounted for by their large inherent variability, as",,
+27,tance and cardiovascular disease risk factors,(McLaughlin et al.,noted by the large standard deviations and that considerable de-,,
+28,2005). While we cannot say for certain as to whether these meta-,,creases were experienced by individuals whose baseline fasting in-,,
+29,"bolic improvements have occurred independent of weight loss,",,sulin levels were above recommended reference levels (<174 pmol/L).,,
+30,evidence suggests that both lipid and glycaemic control markers,,"For example, one",individual in the LCHF,group experienced a
+31,have shown improvements in the absence of weight loss (Krauss,,reduction in insulin of 258 pmol/L and another 112 pmol/L. Due to,,
+32,et al. 2006; Gannon and Nuttall 2006; Mayer et al. 2014). Further-,,"the small sample size of completing participants, the presenta-",,
+33,"more, greater improvements in triglyceride and HDLc have been",,tion of our results as individual responses alongside mean values,,
+34,shown in low carbohydrate diets compared with isocaloric low fat,,provides more clarity and meaning to their interpretation.,,
+35,"diets in the context of equal group weight loss, thereby suggesting an",,"For the markers, HbA1c, one control group",,participant went
+36,independent impact of macronutrient redistribution,(Brinkworth,"from an HbA1c of 34 to 41.7 mmol/L, which is above the normal",,
+37,et al. 2009).,,"reference threshold. Despite the moderate, likely beneficial between-",,
+38,"In our study, we showed a nonsignificant upward and down-",,"group effect shown for HbA1c, all participants apart from the one",,
+39,"ward trend in LDLc in the LCHF and control groups, respectively,",,just described were within the normal reference range postinter-,,
+40,"with 8 participants in the LCHF group, compared with 4 partici-",,vention (<41 mmol/mol) (Labtests New Zealand 2016).,,
+41,pants in the control group showing an increase in LDLc. These,,"Aside from the limitations already mentioned, the study had",,
+42,"trends, along with the small, likely harmful between-group effect",,2 further limitations. The study numbers were modest. Despite,,
+43,were not unexpected as an increase in LDLc has been identified to,,"much interest in this trial, the realities of working in a defence",,
+44,accompany LCHF eating,in some studies (Mansoor et al. 2016).,"force environment meant commitments, which included unex-",,
+45,There is current debate surrounding LDLc and its overall effect on,,pected sea travel that took preference to completing the trial or,,
+46,"disease risk. Briefly, it is the LDL sub-fractions and their varying",,being present at the final data collection point. While travel did,,
+47,"effects on health, which",is suggested to impart more meaning,"not deter individuals from being part of a trial, we understand",,
+48,to the overall prediction of cardiovascular risk than LDLc itself,,that all meals are,provided in sea travel,"situations, leaving no"
+49,(Ip et al. 2009; Ravnskov,et al. 2016; Rizzo and Berneis 2006).,control for participants to adhere to their respective study proto-,,
+50,"Compared with the large, buoyant, LDL particles, it is the small,",,"col, either the LCHF",or the control groups.,What is somewhat
+51,"dense LDL particles, that are said to be atherogenic, as they pass",,encouraging is that attrition was equal between groups.,,
+52,more easily into arterial walls where they undergo oxidation and,,Another limitation was that we did not obtain diet records to,,
+53,cause inflammation and damage to the blood vessel wall. While,,assess adherence. The FFQ data showed a statistically significant,,
+54,these fractions are not yet routinely measured in research or clin-,,difference between consumption of high-carbohydrate load food,,
+55,"ical practice, evidence suggests that a reduced HDLc and a raised",,"items between the groups over the 12 weeks; however, the true",,
+56,triglyceride lipid profile are predictors of the atherogenic LDLc,,meaning of this finding is limited. While this tells us about the,,
+57,"phenotype, with the reverse (i.e., high HDLc and low triglycerides)",,"number of times participants consumed these foods, we are un-",,

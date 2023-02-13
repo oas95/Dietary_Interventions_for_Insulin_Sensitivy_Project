@@ -1,0 +1,13 @@
+,Table 1.,"Anthropometric and blood pressure measurements at baseline (mean s.d.), and changes after weight loss (mean±s.e.m.) when subjects"
+0,"were ketotic (week 8) and after refeeding (non-ketotic, week 10)",
+1,Measure,Week 0 D Week 0–8 D Week 0–10 D Week 8–10 P-value
+2,,(ketotic) (non-ketotic) (week 8 versus 10)
+3,zWeight (kg),96.2 (13.6) 12.5±0.5 z 13.0±0.5 0.5±0.1 o0.001
+4,zBMI (kg/m ),2 34.7 (3.5) 4.5±0.1 z 4.7±0.1 0.2±0.1 o0.001
+5,zWaist circumferance (cm),103.3 (10.6) 9.9±0.5 z 10.6±0.5 0.7±0.4 0.07
+6,zHip circumferance (cm),120.3 (8.0) 8.1±0.4 8.9 ± z0.4 0.8±0.3 0.002
+7,zFat mass (kg),49.5 (11.2) 13.4±0.7 z 14.6±0.8 1.2±0.3 o0.001
+8,aSystolic BP (mmHg),136.0 (19.8) 17.6±2.4 z 13.9±2.4 z 3.7±1.7 0.03
+9,zDiastolic BP (mmHg),82.7 (11.1) 9.2 ±1.9 z 10.0±1.6 0.8±1.8 0.68
+10,zSymbols denote significant differences from week 0 ( Pp0.001). Repeated measures ANOVA reported highly significant changes over weeks for all measures,
+11,a(all P-valueo0.001).,"Indicates pairwise comparisons, which did not remain significant after adjustment for multiple comparisons."
