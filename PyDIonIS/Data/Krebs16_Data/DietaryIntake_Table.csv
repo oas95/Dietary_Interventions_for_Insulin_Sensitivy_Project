@@ -1,0 +1,10 @@
+,Nutrient,"Standard carbohydrate group, baseline (n=5) Mean (SD)","Standard carbohydrate group, 12 week (n=5) Mean (SD)","Carbohydrate restricted group, baseline (n=5) Mean (SD)","Carbohydrate restricted group, 12 weeks (n=5) Mean (SD)"
+0,Energy (kcal),1922 (410),1854 (551),1988 (659),1391 (159)
+1,Protein (g),97 (32),85 (42),77 (15),76 (16)
+2,Total Fat (g),68 (17),77 (15),78 (23),69 (13)
+3,Saturated Fat (g),24 (9),30 (7),34 (9),24 (7)
+4,Carbohydrate (g),221 (89),203 (92),219 (90),103 (22)*†
+5,Sugars (g),81 (22),82 (35),93 (26),44 (17)*†
+6,Alcohol (g),6 (9),2 (4),15 (28),6 (8)
+7,Dietary fibre (g),21 (5),18 (4),23 (8),19 (3)
+8,Vitamin C (mg),70 (52),71 (40),126 (34),147 (62)
