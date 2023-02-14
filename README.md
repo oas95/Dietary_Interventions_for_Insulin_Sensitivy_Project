@@ -3,7 +3,7 @@
 ________________________________________
 
 Original Project Presentation is included in repo
-You can also watch it here: (Youtube Link)
+You can also watch it here: [Dietary Interventions on Insulin Sensitivity](https://www.youtube.com/watch?v=X225hngN9GY)
 
 ### Project Purpose
 ________________________________________
